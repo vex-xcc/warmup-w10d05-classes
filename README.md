@@ -29,7 +29,7 @@ Our class should have multiple functionality:
     Displays all products information!
 
 
-## Bonuns 
+## Bonus
 
 - **remove_product**
     takes a product name and removes that product from your shop list
